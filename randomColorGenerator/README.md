@@ -1,8 +1,6 @@
-# React + Vite
+## Hex and RGB color generator 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://github.com/Abdullah-Hasan-Sajjad/React-Playground/assets/64843174/71f832dc-897c-4a8d-8028-462fe7c58685
+
