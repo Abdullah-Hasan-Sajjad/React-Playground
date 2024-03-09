@@ -1,6 +1,6 @@
 //import Test from "./Test";
 import "./app.scss";
-//import Contact from "./components/contact/Contact";
+import Contact from "./components/contact/Contact";
 //import Cursor from "./components/cursor/Cursor";
 import Hero from "./components/hero/Hero";
 import Navbar from "./components/navbar/Navbar";
@@ -26,6 +26,9 @@ const App = () => {
         <Parallax type="portfolio" />
       </section>
       <Portfolio />
+      <section id="Contact">
+        <Contact />
+      </section>
       {/* Framer Motion Crash Course */}
       {/* <Test/>
     <Test/> */}
