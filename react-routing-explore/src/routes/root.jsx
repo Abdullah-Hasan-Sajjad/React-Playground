@@ -1,3 +1,5 @@
+import { Outlet } from "react-router-dom";
+
 export default function Root(){
     return (
         <>
@@ -34,10 +36,15 @@ export default function Root(){
                 <li>
                   <a href={`/contacts/2`}>Your Friend</a>
                 </li>
+                <li>
+                  <a href={`/testing`}>Testing Route</a>
+                </li>
               </ul>
             </nav>
           </div>
-          <div id="detail"></div>
+          <div id="detail">
+            <Outlet />
+          </div>
         </>
       );  
 }
